@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "lw_mechanical_power:block/shaft" }
+  }
+}

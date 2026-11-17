@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "lw_fluid_dynamics:block/pump" }
+  }
+}

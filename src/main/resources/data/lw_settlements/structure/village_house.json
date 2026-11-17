@@ -1,0 +1,11 @@
+{
+  "id": "village_house",
+  "category": "village",
+  "weight": 10,
+  "biomes": ["minecraft:plains", "minecraft:forest"],
+  "minStage": 1,
+  "minPopulation": 50,
+  "anchor": [0, 0, 0],
+  "connectionPoints": [[0, 0, 2], [2, 0, 0]],
+  "tags": ["residential", "wood"]
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "lw_thermodynamics:block/steam_machine" }
+  }
+}
